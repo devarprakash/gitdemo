@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SCSDpodabhaiyo aur behnofffff
+=======
+SCSDpodabhaiyo aur behno
+>>>>>>> 36e24e35484bb1dec539cf70a5785e2ba31e2aa2
